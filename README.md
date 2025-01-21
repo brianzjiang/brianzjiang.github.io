@@ -1,15 +1,3 @@
-# [Algo Group Personal Website Template](https://algo-group-uchicago.github.io/personal-site-template/)
-
-<div align="center">
-  <br>
-  <img src="images/algo_group_logo.jpg"
-      width="200" 
-      height="auto">
-  <br><br>
-  https://algo-group-uchicago.github.io/personal-site-template/
-  <br><br>
-</div>
-
 ## Repo Structure
 ```
 ├── README.md
